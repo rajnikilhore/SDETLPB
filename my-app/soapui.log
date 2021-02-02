@@ -1,0 +1,26 @@
+2021-02-01 11:05:16,119 WARN  [SoapUI] Missing folder [C:\Users\rkilhore\Desktop\SDET\api\Project1\my-app\ext] for external libraries
+2021-02-01 11:05:16,465 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\rkilhore\soapui-settings.xml]
+2021-02-01 11:05:19,240 INFO  [WsdlProject] Loaded project from [file:/C:/Users/rkilhore/Desktop/SDET/api/Project1/my-app/Add-Delete-API-using-XML-soapui-project.xml]
+2021-02-01 11:05:20,257 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Add Delete API using XML]
+2021-02-01 11:05:20,260 INFO  [SoapUITestCaseRunner] Running Project [Add Delete API using XML], runType = SEQUENTIAL
+2021-02-01 11:05:20,317 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add & Delete Place using property Transfer]
+2021-02-01 11:05:20,334 INFO  [SoapUITestCaseRunner] running step [Add Place]
+2021-02-01 11:05:20,750 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2021-02-01 11:05:21,470 INFO  [SoapUITestCaseRunner] running step [Delete Place]
+2021-02-01 11:05:21,702 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add & Delete Place using property Transfer], time taken: 1186ms, status: FINISHED
+2021-02-01 11:05:21,709 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add & Delete place using property expansion]
+2021-02-01 11:05:21,710 INFO  [SoapUITestCaseRunner] running step [Add Place]
+2021-02-01 11:05:21,854 INFO  [SoapUITestCaseRunner] running step [Delete Place]
+2021-02-01 11:05:22,091 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add & Delete place using property expansion], time taken: 335ms, status: FINISHED
+2021-02-01 11:05:22,101 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add & Delete place assertion]
+2021-02-01 11:05:22,103 INFO  [SoapUITestCaseRunner] running step [Add Place]
+2021-02-01 11:05:23,129 INFO  [log] 1723e4900c5bdb06ad4d8b4c395d6de0
+2021-02-01 11:05:23,349 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2021-02-01 11:05:23,437 INFO  [SoapUITestCaseRunner] Assertion [XPath Match] has status UNKNOWN
+2021-02-01 11:05:23,487 INFO  [SoapUITestCaseRunner] Assertion [XQuery Match] has status UNKNOWN
+2021-02-01 11:05:23,494 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 11:05:23,495 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 11:05:23,525 INFO  [SoapUITestCaseRunner] running step [Delete Place]
+2021-02-01 11:05:23,766 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2021-02-01 11:05:23,768 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add & Delete place assertion], time taken: 370ms, status: FINISHED
+2021-02-01 11:05:23,778 INFO  [SoapUITestCaseRunner] Project [Add Delete API using XML] finished with status [FINISHED] in 3507ms
