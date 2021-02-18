@@ -1,0 +1,13 @@
+2021-02-18 11:44:31,565 INFO  [log] db379b9a3f86249ae8723f8b0c225ea68b98c7bc
+2021-02-18 11:44:31,635 INFO  [log] HTTP status code: 200
+2021-02-18 11:44:32,013 INFO  [log] upskills_admin
+2021-02-18 11:44:32,014 INFO  [log] usname is correct
+2021-02-18 11:44:32,370 INFO  [log] upskills_admin
+2021-02-18 11:44:32,371 INFO  [log] usname is correct
+2021-02-18 11:44:32,717 INFO  [log] 1
+2021-02-18 11:44:32,722 INFO  [log] usname is logout
+2021-02-18 11:44:33,101 INFO  [log] upskills_admin
+2021-02-18 11:44:33,102 INFO  [log] usname is correct
+2021-02-18 11:44:38,201 INFO  [log] HTTP status code: 200
+2021-02-18 11:44:38,209 INFO  [log] 2
+2021-02-18 11:44:38,219 INFO  [log] test case passed
